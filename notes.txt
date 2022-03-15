@@ -1,0 +1,1 @@
+Javascript - Script to mute and unmute the preview video
